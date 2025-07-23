@@ -1,5 +1,5 @@
-# Car-Plate-Anonymization-Yolov4
-This project develops a car license plate anonymization system using YOLOv4 for plate detection, 
+# Car-Plate-Anonymization-Yolov3
+This project develops a car license plate anonymization system using YOLOv3 for plate detection, 
 SIFT for feature processing, and blurring techniques to obscure plate information.
 
 
