@@ -5,7 +5,7 @@ SIFT for feature processing, and blurring techniques to obscure plate informatio
 
 ## Step 1: License Plate Detection and Cropping
 Use YOLOv3 to detect license plates in the dataset images and crop the detected plate regions for further processing.
-![Extraction Stage](images/image1.png)
+![Extraction Stage](images/Image1.png)
 
 The accuracy of detecting: 
 ![Extraction Stage](images/image4.png)
